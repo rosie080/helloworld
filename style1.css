@@ -5,23 +5,23 @@ background-repeat: no repeat;
 }
 
 h1 {
-  color: lightblue;
+  color: white;
   text-align: center;
   font-family: verdana;
 }
 
 p {
-  color: lightblue;
+  color: with;
   text-align: center;
-  font-family: verdana;
+  font-family: Verdana;
   font-size: 20px;
 }
 h2{
- color: lightblue;
+ color: white;
   font-family: verdana;
 }
 li{
- color: lightblue;
+ color: white;
   text-align: center;
   font-family: verdana;
 }
