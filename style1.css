@@ -1,25 +1,25 @@
 body {
-  background-color: lightblue;
+  background-color: white;
 }
 
 h1 {
-  color: white;
+  color: lightblue;
   text-align: center;
   font-family: verdana;
 }
 
 p {
-  color: white;
+  color: lightblue;
   text-align: center;
   font-family: verdana;
   font-size: 20px;
 }
 h2{
- color: white;
+ color: lightblue;
   font-family: verdana;
 }
 li{
- color: white;
+ color: lightblue;
   text-align: center;
   font-family: verdana;
 }
