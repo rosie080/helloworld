@@ -3,11 +3,7 @@ body {
 background-size: cover;
 background-repeat: no repeat;
 }
-image-container {
-  width: 200px;
-  height: : 200px;
-  text-align: center;
-}
+
 
 h1 {
   color: white;
