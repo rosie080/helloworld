@@ -3,8 +3,9 @@ body {
 background-size: cover;
 background-repeat: no repeat;
 }
-.image-container {
-    text-align: center;
+image-container {
+  width: 200px;
+  text-align: center;
 }
 
 h1 {
