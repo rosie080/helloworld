@@ -8,7 +8,7 @@ background-repeat: no repeat;
   width: 200px; 
   height: 200px; 
   display: flex;
-  justify-content: center;
+ imgalign: center;
   align-items: center;
 }
 
